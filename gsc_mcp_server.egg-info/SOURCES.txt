@@ -1,0 +1,9 @@
+README.md
+gsc.py
+main.py
+pyproject.toml
+gsc_mcp_server.egg-info/PKG-INFO
+gsc_mcp_server.egg-info/SOURCES.txt
+gsc_mcp_server.egg-info/dependency_links.txt
+gsc_mcp_server.egg-info/requires.txt
+gsc_mcp_server.egg-info/top_level.txt
